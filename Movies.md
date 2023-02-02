@@ -1,6 +1,6 @@
 # **Breaking Bad**
 
-<img src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUOnXKnRL0jeo6y4_Nzt0RggJHYbxI_RjJUgCvmdG28BAwpAx">
+<img src"breakingbad.jpg">
 
 ## Created by Vince Gilligan, the series follow the exploits of Walter White, a modest high school chemistry teacher, who discovers a new purpose in life when he learns he has terminal cancer and truns to a life of crime to provide for his family
 
