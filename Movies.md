@@ -17,7 +17,10 @@ Breaking Bad is one of the most successful TV shows of all time, actually gettin
 - _Betsy Brandt_ as Marie Schrader
 - _Jonathan Bank_ as Mike Ehmantraut
 - _Giancarlo Esposito_ as Gus Fring<br>
-  [Link1](https://www.imdb.com/title/tt0903747/)<br>
-  [Link2](https://www.sonypictures.com/tv/breakingbad)
+
+## Links:
+
+[IMDB](https://www.imdb.com/title/tt0903747/)<br>
+[Sony Pictures](https://www.sonypictures.com/tv/breakingbad)
 
 println("Breaking Bad" + " realeased January 20, 2008")
