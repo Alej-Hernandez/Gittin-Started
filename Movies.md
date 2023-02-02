@@ -2,7 +2,7 @@
 
 <img src="breakingbad.jpg" align="left" width= 250px>
 
-Created by _Vince Gilligan_, the series follow the exploits of Walter White, a modest high school chemistry teacher, who discovers a new purpose in life when he learns he has terminal cancer and truns to a life of crime to provide for his family
+Created by _Vince Gilligan_, the series follows protagonist Walter White, _Bryan Cranston_, a chemistry teacher who lives in New Mexico with his wife, _Anna Gunn_ and teenage son, _RJ Mitte_ who has cerebral palsy. White is diagnosed with Stage III cancer and given a prognosis of two years left to live. With a new sense of fearlessness based on his medical prognosis, and a desire to secure his family's financial security, White chooses to enter a dangerous world of drugs and crime and ascends to power in the world. The series explores how a fatal diagnosis such as White's releases a typical man from the daily concerns and constraints of normal society and follows his transformation from mild family man to a kingpin of the drug trade.
 
 **Breaking Bad** is one of the most successful TV shows of all time, actually getting named as the most critically acclaimed series ever by Guinness World Records in 2013. It also garnered a slew of awards during its run, including 16 Primetime Emmy Awards; _Cranston_, _Paul_, and _Gunn_ all won acting Emmys for their roles on the series on multiple occasions. The season 5 episode "Ozymandias" is the highest-rated episode of any TV series ever on IMDb. And these are just some of the many accolades acquired by the show while it was on the air.
 
