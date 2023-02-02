@@ -23,4 +23,6 @@ Created by _Vince Gilligan_, the series follows protagonist Walter White, _Bryan
 [IMDB](https://www.imdb.com/title/tt0903747/)<br>
 [Sony Pictures](https://www.sonypictures.com/tv/breakingbad)
 
-println("Breaking Bad" + " realeased January 20, 2008")
+public static void main(String[] args){
+System.out.println("Breaking Bad (2008)");
+}
