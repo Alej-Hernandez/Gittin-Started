@@ -2,9 +2,9 @@
 
 <img src="breakingbad.jpg" width= 250px>
 
-## Created by Vince Gilligan, the series follow the exploits of Walter White, a modest high school chemistry teacher, who discovers a new purpose in life when he learns he has terminal cancer and truns to a life of crime to provide for his family
+### Created by Vince Gilligan, the series follow the exploits of Walter White, a modest high school chemistry teacher, who discovers a new purpose in life when he learns he has terminal cancer and truns to a life of crime to provide for his family
 
-## Breaking Bad is one of the most successful TV shows of all time, actually getting named as the most critically acclaimed series ever by Guinness World Records in 2013. It also garnered a slew of awards during its run, including 16 Primetime Emmy Awards; Cranston, Paul, and Gunn all won acting Emmys for their roles on the series on multiple occasions. The season 5 episode "Ozymandias" is the highest-rated episode of any TV series ever on IMDb. And these are just some of the many accolades acquired by the show while it was on the air.
+Breaking Bad is one of the most successful TV shows of all time, actually getting named as the most critically acclaimed series ever by Guinness World Records in 2013. It also garnered a slew of awards during its run, including 16 Primetime Emmy Awards; Cranston, Paul, and Gunn all won acting Emmys for their roles on the series on multiple occasions. The season 5 episode "Ozymandias" is the highest-rated episode of any TV series ever on IMDb. And these are just some of the many accolades acquired by the show while it was on the air.
 
 ## **Cast:**
 
