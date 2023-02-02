@@ -23,8 +23,8 @@ Created by _Vince Gilligan_, the series follows protagonist Walter White, _Bryan
 [IMDB](https://www.imdb.com/title/tt0903747/)<br>
 [Sony Pictures](https://www.sonypictures.com/tv/breakingbad)
 
-'''\*.java
+```java
 public static void main(String[] args){
-System.out.println("Breaking Bad (2008)");
+  System.out.println("Breaking Bad (2008)");
 }
-'''
+```
